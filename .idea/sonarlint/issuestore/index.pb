@@ -11,3 +11,5 @@ R
 "tests/experience-licensing.test.ts,8/4/84ea0f48107f31770029b324653c72251626cbff
 ^
 .contracts/cross-simulation-asset-transfer.clar,7/9/79b39f4e3b1994d07fadffdfe8af0ce7d2bcee2f
+]
+-tests/cross-simulation-asset-transfer.test.ts,2/a/2a502339c480cc1538ce09470da62121ad5152b6
